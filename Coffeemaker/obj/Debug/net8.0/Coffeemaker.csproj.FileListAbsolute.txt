@@ -1,0 +1,14 @@
+D:\cSharp\Coffeemaker\Coffeemaker\bin\Debug\net8.0\Coffeemaker.exe
+D:\cSharp\Coffeemaker\Coffeemaker\bin\Debug\net8.0\Coffeemaker.deps.json
+D:\cSharp\Coffeemaker\Coffeemaker\bin\Debug\net8.0\Coffeemaker.runtimeconfig.json
+D:\cSharp\Coffeemaker\Coffeemaker\bin\Debug\net8.0\Coffeemaker.dll
+D:\cSharp\Coffeemaker\Coffeemaker\bin\Debug\net8.0\Coffeemaker.pdb
+D:\cSharp\Coffeemaker\Coffeemaker\obj\Debug\net8.0\Coffeemaker.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharp\Coffeemaker\Coffeemaker\obj\Debug\net8.0\Coffeemaker.AssemblyInfoInputs.cache
+D:\cSharp\Coffeemaker\Coffeemaker\obj\Debug\net8.0\Coffeemaker.AssemblyInfo.cs
+D:\cSharp\Coffeemaker\Coffeemaker\obj\Debug\net8.0\Coffeemaker.csproj.CoreCompileInputs.cache
+D:\cSharp\Coffeemaker\Coffeemaker\obj\Debug\net8.0\Coffeemaker.dll
+D:\cSharp\Coffeemaker\Coffeemaker\obj\Debug\net8.0\refint\Coffeemaker.dll
+D:\cSharp\Coffeemaker\Coffeemaker\obj\Debug\net8.0\Coffeemaker.pdb
+D:\cSharp\Coffeemaker\Coffeemaker\obj\Debug\net8.0\Coffeemaker.genruntimeconfig.cache
+D:\cSharp\Coffeemaker\Coffeemaker\obj\Debug\net8.0\ref\Coffeemaker.dll
